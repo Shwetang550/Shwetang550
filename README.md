@@ -50,6 +50,8 @@
 
 <br />
 
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
