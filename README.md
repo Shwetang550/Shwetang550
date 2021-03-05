@@ -47,6 +47,7 @@
 <code><img height="35rem" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" /></code>
 <code><img height="35rem" src="https://i.pinimg.com/originals/c4/35/6c/c4356cd5454d06585e0a46066b555172.png" /></code>
 <code><img height="35rem" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" /></code>
+<code><img height="35rem" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" /></code>
   
 ***
 
