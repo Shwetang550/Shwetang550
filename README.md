@@ -9,7 +9,6 @@
 
 **Talking about Personal Stuffs:**
 
-- GSSoC'21 participant.
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
 - 🌱  I’m currently learning Python. 
 - 💬  Ask me about anything, I am happy to help.
