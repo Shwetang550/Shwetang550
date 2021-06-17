@@ -8,7 +8,7 @@
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" />
 
 **Talking about Personal Stuffs:** 
-- GSSoC'21 Participant
+- GSSoC'21
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
 - 🌱  I’m currently learning Python. 
 - 💬  Ask me about anything, I am happy to help.
