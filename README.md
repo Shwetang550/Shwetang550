@@ -9,6 +9,7 @@
 
 **Talking about Personal Stuffs:** 
 - GSSoC'21
+- GitHub Graduate, 2021
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: shwetangsingh5@gmail.com.
 
